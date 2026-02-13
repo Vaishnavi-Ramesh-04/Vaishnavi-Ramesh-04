@@ -20,14 +20,14 @@ print(developer.improve())
 
 
 
-
 ### 🔥 GitHub Stats
 
-![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaishnavi-Ramesh-04&show_icons=true&theme=codeSTACKr)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vaishnavi-Ramesh-04&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Ramesh-04&layout=compact&theme=codeSTACKr)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vaishnavi-Ramesh-04&layout=compact&theme=tokyonight" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Vaishnavi-Ramesh-04&theme=codeSTACKr)
+<img src="https://streak-stats.demolab.com?user=Vaishnavi-Ramesh-04&theme=tokyonight" />
+
 
 
 
