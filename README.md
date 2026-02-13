@@ -1,14 +1,14 @@
-## Hi there 👋
+## Hey !
 ```python
 class VaishnaviR:
     def __init__(self):
         self.name = "Vaishnavi R"
         self.stack = ["Frontend", "Backend", "Database"]
         self.languages = ["Python", "Java", "SQL", "JavaScript","C","C++"]
-        self.status = "Learning and building every day "
+        self.status = "Creating my own path, one line at a time "
 
     def improve(self):
-        self.status = "Stronger than yesterday 💪"
+        self.status = "Becoming better than my past self "
         return f"{self.name} — {self.status}"
 
 developer =VaishnaviR()
@@ -20,7 +20,7 @@ print(developer.improve())
 
 
 
-### 🔥 GitHub Stats
+###  GitHub Overview
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vaishnavi-Ramesh-04&show_icons=true&theme=tokyonight" />
 
